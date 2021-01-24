@@ -28,7 +28,8 @@ python gen_trn_scp.py [thchs30 test wav dir] [wav.scp file] [trn.scp file]
 
 ## Train & Test & Recognize ##
 
-before train/test/recognize you'd better to verify some file paths in ctc_train.py such as the saved path of model you have trained and so on when you can not run the program.  
+before train/test/recognize you'd better to verify some file paths in ctc_train.py 
+such as the saved path of model you have trained and so on when you can not run the program.  
 
 Train
 
