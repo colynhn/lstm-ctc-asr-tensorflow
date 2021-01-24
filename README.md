@@ -50,7 +50,7 @@ Recognize
 python recognize.py
 ```
 
-lacking of phonme vocab,the recognize.py can only generate phoneme sequence,you can have a further try.
+lacking of phonme vocab, the recognize.py can only generate phoneme sequence, you can have a further try.
 
 ## Reference ##
 
